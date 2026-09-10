@@ -20,7 +20,7 @@ Até o texto é desenhado com uma fonte bitmap própria, pixel a pixel.
 
 ## Vídeo
 
-AINDA VOU ADICIONAR O VIDEO NO YOUTUBE
+https://youtu.be/lL2Kf-Jk2Pw
 
 ## Como compilar e executar
 
