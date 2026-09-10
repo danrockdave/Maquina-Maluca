@@ -28,7 +28,7 @@ Requisitos: Python 3.10+ e pip.
 
 ```bash
 git clone https://github.com/danrockdave/Maquina-Maluca
-cd maquina_maluca
+cd Maquina-Maluca
 python -m venv .venv
 # Linux/macOS
 source .venv/bin/activate
