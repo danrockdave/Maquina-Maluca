@@ -5,7 +5,7 @@ para a disciplina de Computação Gráfica. O jogador recebe uma bola, um balde 
 de peças (tábuas, trampolins, ventiladores, esteiras, caixas etc) e precisa montar
 uma máquina absurda para levar a bola até o balde.
 
-Toda a imagem (1024 × 640) é rasterizada "na mão" em uma matriz `numpy` (largura × altura × RGB).
+Toda a imagem é rasterizada "na mão" em uma matriz `numpy` (largura × altura × RGB).
 O `pygame` é usado **apenas** para abrir a janela, ler teclado/mouse, carregar as texturas
 PNG para matrizes e exibir a matriz final na tela (`pygame.surfarray.blit_array`).
 Até o texto é desenhado com uma fonte bitmap própria, pixel a pixel.
