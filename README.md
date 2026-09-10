@@ -27,7 +27,7 @@ AINDA VOU ADICIONAR O VIDEO NO YOUTUBE
 Requisitos: Python 3.10+ e pip.
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/danrockdave/Maquina-Maluca
 cd maquina_maluca
 python -m venv .venv
 # Linux/macOS
