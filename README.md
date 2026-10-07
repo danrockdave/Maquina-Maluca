@@ -22,6 +22,10 @@ Até o texto é desenhado com uma fonte bitmap própria, pixel a pixel.
 
 https://youtu.be/lL2Kf-Jk2Pw
 
+## Apresentação em slides
+
+https://docs.google.com/presentation/d/1Ct3P51XcUALR8teQo1ZsTEGKIUxYZuYkMwPRv7VxeQw/edit?usp=sharing
+
 ## Como compilar e executar
 
 Requisitos: Python 3.10+ e pip.
